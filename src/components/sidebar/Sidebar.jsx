@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import Links from "./links/Links";
+// import Links from "./links/Links";
 import "./sidebar.scss";
-import ToggleButton from "./toggleButton/ToggleButton";
+// import ToggleButton from "./toggleButton/ToggleButton";
 
 const variants = {
   open: {
@@ -28,9 +28,9 @@ const Sidebar = () => {
   return (
     <motion.div className="sidebar" animate={open ? "open" : "closed"}>
       <motion.div className="bg" variants={variants}>
-        <Links />
+        {/* <Links /> */}
       </motion.div>
-      <ToggleButton setOpen={setOpen} />
+      {/* <ToggleButton setOpen={setOpen} /> */}
     </motion.div>
   );
 };
