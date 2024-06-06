@@ -26,8 +26,9 @@ const Parallax = ({ type }) => {
     >
       <motion.h1 style={{ y: yText }}>
         {type === "services"
-          ? "Contact: One floor down :D"
-          : "Projects & Prowess"}
+          ? `Contact: 
+              katarina.milosevic@symphony.is`
+          : `Projects & Proofs`}
       </motion.h1>
       <motion.div className="mountains"></motion.div>
       <motion.div
