@@ -124,13 +124,13 @@ const items = [
   {
     id: 8,
     title: "NY Party",
-    img: "/NYparty.jpg",
+    img: "/NYparty.JPG",
     desc: "As part of the organizing team for last year's employee party, I scouted the best band, ensured the dance floor was rocking, and kept the energy high all night long! From finding the perfect tunes to keeping the drinks flowing, it was all hands on deck to create an unforgettable night of celebration and fun for our team.",
   },
   {
     id: 9,
     title: "NY Kids Party",
-    img: "/NYkidsparty.jpg",
+    img: "/NYkidsparty.JPG",
     desc: "And let's not forget, a delightful party was also organized for our youngest guests! The fairy tale characters, Little Thumbelina and the Snow Queen, delighted our little ones, followed by a magical photo session with Santa Claus himself, creating cherished memories for all!",
   },
   {
@@ -170,7 +170,7 @@ const items = [
   {
     id: 14,
     title: "Lice Ulice Salesman Visit",
-    img: "/liceulice.jpg",
+    img: "/liceulice.JPG",
     desc: (
     <p>
     As the organizer of the <a href="https://liceulice.org/" target="_blank" rel="noopener noreferrer" style={{ color: "#FFBE3D" }}>Lice Ulice</a> salesman visit, I coordinated a special visit from a salesman representing the Lice Ulice organization at our hub. We took pride in supporting their milestone 100th-anniversary issue by encouraging our employees to purchase copies. By spearheading this initiative, we've actively contributed to the impactful work of 'Lice Ulice' in our community, showcasing our commitment to social responsibility and making a positive difference in the lives of those around us.
