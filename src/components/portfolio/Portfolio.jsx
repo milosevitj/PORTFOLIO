@@ -8,17 +8,17 @@ const items = [
     title: "Mountain Guide",
     img: "/plsavetnik.png",
     desc: (
-      <p>
-        As the founder, I've curated a vibrant community of nearly 8000 adventure enthusiasts on Instagram. Here, I not only share the exhilaration of exploration and the art of hiking but also foster a close-knit community. Additionally, I established the website{" "}
+    
+<p>
+        As the founder, I've curated a vibrant community of nearly 8000 adventure enthusiasts on Instagram. Here, I not only share the exhilaration of exploration and the art of hiking but also foster a close-knit community. Additionally, I've been actively creating content for our Instagram page, providing valuable insights, stunning visuals, and fostering engagement among followers. Through platform, adventurers find valuable resources, connect with like-minded individuals, and discover new trails, enhancing outdoor experiences.
         <a
-          href="https://www.planinarskisavetnik.com/"
+          href="https://www.instagram.com/planinarski.savetnik?igsh=YWk4dHNubGsxOXdm "
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: "#FFBE3D" }}
         >
-          planinarskisavetnik.com
+          @planinarskisavetnik
         </a>
-        , providing a virtual sanctuary for mountain lovers seeking wisdom about peaks and trails. Through our platform, adventurers find valuable resources, connect with like-minded individuals, and discover new trails, enhancing their outdoor experiences.
       </p>
     ),
   },
